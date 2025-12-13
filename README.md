@@ -1,6 +1,10 @@
 # Python for Kids
 
-1. Python Variables and Types [[YouTube]()] [[Slides]()] [[Worksheet]()] [[Solutions]()]
+1. Python Variables and Types
+   [[YouTube]()]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/01.pdf)]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/01_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/01_Solution.pdf)]
 
 2. Python Basic Arithmetic [[YouTube]()] [[Slides]()] [[Worksheet]()] [[Solutions]()]
 
