@@ -43,5 +43,30 @@
    [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/07_Solution.pdf)]
 
 8. Python For-Loop with List
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Solution.pdf)]
+   
+9. Python For-Loop with Break
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Solution.pdf)]
+
+10. Python For-Loop Number Problems
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
+
+11. Python Nested For-Loop
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Solution.pdf)]
+
+
+
 
 
