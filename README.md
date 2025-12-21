@@ -66,7 +66,21 @@
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Worksheet.pdf)]
    [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Solution.pdf)]
 
+12. Python While-Loop
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Solution.pdf)]
 
+13. Palindrome Check with Two Pointers
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Worksheet.pdf)]
+   [[Solutions](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Solution.pdf)]
+
+14. Python Swap Numbers
+
+15. Move Zeros Using Two Pointers
 
 
 
