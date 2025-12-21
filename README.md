@@ -71,6 +71,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Solution.pdf)]
+   [[Quiz 06-11](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_11.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_11.pdf)]
 
 12. Python While-Loop
    [YouTube]
