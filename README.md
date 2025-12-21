@@ -29,7 +29,7 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/05_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/05_Solution.pdf)]
-   [[Quiz 01-05](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_05.pdf)
+   [[Quiz 01-05](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_05.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_01_05.pdf)]
 
 6. Python List Operations
@@ -49,7 +49,7 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Solution.pdf)]
-   [[Quiz 01-08](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_08.pdf)
+   [[Quiz 01-08](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_08.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_01_08.pdf)]
    
 9. Python For-Loop with Break
