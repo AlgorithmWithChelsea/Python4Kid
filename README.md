@@ -79,6 +79,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Solution.pdf)]
+   [[Quiz 08-12](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_12.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_12.pdf)]
 
 13. Palindrome Check with Two Pointers
    [YouTube]
