@@ -63,6 +63,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
+   [[Quiz 03-10](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_03_10.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_03_10.pdf)]
 
 11. Python Nested For-Loop
    [YouTube]
