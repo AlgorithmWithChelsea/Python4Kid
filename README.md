@@ -105,6 +105,7 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Solution.pdf)]
-
+   [[Quiz 13-16](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_13_16.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_13_16.pdf)]
 
 
