@@ -58,47 +58,53 @@
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Solution.pdf)]
 
-10. Python For-Loop Number Problems
+10. Python Factor Problems
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
-   [[Quiz 03-10](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_03_11.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_03_11.pdf)]
 
-11. Python Nested For-Loop
+11. Python Digit Problems
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Solution.pdf)]
-   [[Quiz 06-11](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_12.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_12.pdf)]
+   [[Quiz 03-11](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_03_11.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_03_11.pdf)]
 
-12. Python While-Loop
+12. Python Nested For-Loop
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Solution.pdf)]
-   [[Quiz 08-12](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_13.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_13.pdf)]
+   [[Quiz 06-12](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_12.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_12.pdf)]
 
-13. Palindrome Check with Two Pointers
+13. Python While-Loop
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Solution.pdf)]
+   [[Quiz 08-13](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_13.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_13.pdf)]
 
-14. Python Swap Numbers
+14. Palindrome Check with Two Pointers
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Solution.pdf)]
 
-15. Move Zeros Using Two Pointers
+15. Python Swap Numbers
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/15_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/15_Solution.pdf)]
+
+16. Move Zeros Using Two Pointers
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Solution.pdf)]
 
 
 
