@@ -83,7 +83,7 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Solution.pdf)]
-   [[Quiz 06-12](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_13.pdf),
+   [[Quiz 06-13](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_13.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_13.pdf)]
 
 14. Python While-Loop
@@ -91,8 +91,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Solution.pdf)]
-   [[Quiz 08-13](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_13.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_13.pdf)]
+   [[Quiz 08-14](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_14.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_14.pdf)]
 
 15. Palindrome Check with Two Pointers
    [YouTube]
@@ -111,7 +111,7 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/17_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/17_Solution.pdf)]
-   [[Quiz 13-16](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_13_16.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_13_16.pdf)]
+   [[Quiz 14-17](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_14_17.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_14_17.pdf)]
 
 
