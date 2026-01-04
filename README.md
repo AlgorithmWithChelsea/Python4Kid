@@ -80,31 +80,37 @@
    [[Quiz 06-12](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_12.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_12.pdf)]
 
-13. Python While-Loop
+13. Two Sum by Nested For-Loop
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Solution.pdf)]
-   [[Quiz 08-13](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_13.pdf),
-   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_13.pdf)]
 
-14. Palindrome Check with Two Pointers
+14. Python While-Loop
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Solution.pdf)]
+   [[Quiz 08-13](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_08_13.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_08_13.pdf)]
 
-15. Python Swap Numbers
+15. Palindrome Check with Two Pointers
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/15_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/15_Solution.pdf)]
 
-16. Move Zeros Using Two Pointers
+16. Python Swap Numbers
    [YouTube]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/16_Solution.pdf)]
+
+17. Move Zeros Using Two Pointers
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/17_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/17_Solution.pdf)]
    [[Quiz 13-16](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_13_16.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_13_16.pdf)]
 
