@@ -7,26 +7,26 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/01_Solution.pdf)]
 
 2. Python Basic Arithmetic
-   [YouTube]
+   [[YouTube](https://youtu.be/ETEqeVpoV0c)]
    [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/02.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/02_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/02_Solution.pdf)]
    
 3. Python String Basics
-   [YouTube]
-   [Slides]
+   [[YouTube](https://youtu.be/XM-_EHEN7Kk)]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/03.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/03_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/03_Solution.pdf)]
 
 4. Python If Statements
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/04.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/04_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/04_Solution.pdf)]
 
 5. Python Booleans and Logic
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/05.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/05_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/05_Solution.pdf)]
    [[Quiz 01-05](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_05.pdf),
@@ -34,19 +34,19 @@
 
 6. Python List Operations
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/06.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/06_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/06_Solution.pdf)]
 
 7. Python For-Loop with Range
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/07.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/07_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/07_Solution.pdf)]
 
 8. Python For-Loop with List
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/08.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/08_Solution.pdf)]
    [[Quiz 01-08](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_01_08.pdf),
@@ -54,13 +54,13 @@
    
 9. Python For-Loop with Break
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/09.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Solution.pdf)]
 
 10. Python Factor Problems
    [YouTube]
-   [Slides]
+   [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/10.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
 
