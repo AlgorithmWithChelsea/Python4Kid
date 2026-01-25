@@ -136,3 +136,27 @@
    [[Quiz 06-20](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_06_20.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_20.pdf)]
 
+21. Python Set Remove Duplicates
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/21_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/21_Solution.pdf)]
+
+22. Python Set Intersection
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/22_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/22_Solution.pdf)]
+
+23. Python Set Union
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/23_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/23_Solution.pdf)]
+
+24. Python Dictionary Basics
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/24_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/24_Solution.pdf)]
+
