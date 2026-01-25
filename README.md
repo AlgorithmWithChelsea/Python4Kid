@@ -153,6 +153,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/23_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/23_Solution.pdf)]
+   [[Quiz 18-23](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_18_23.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_18_23.pdf)]
 
 24. Python Dictionary Basics
    [YouTube]
