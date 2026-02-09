@@ -162,3 +162,15 @@
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/24_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/24_Solution.pdf)]
 
+25. Python Dictionary Traversal
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/25_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/25_Solution.pdf)]
+
+26. Python Word Frequency
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/26_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/26_Solution.pdf)]
+
