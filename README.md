@@ -59,7 +59,7 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/09_Solution.pdf)]
 
 10. Python Factor Problems
-   [YouTube]
+   [[YouTube](https://youtu.be/8P5PLGB6IEs)]
    [[Slides](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Slides/10.pdf)]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
