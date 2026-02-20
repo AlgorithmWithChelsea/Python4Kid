@@ -186,3 +186,9 @@
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/28_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/28_Solution.pdf)]
 
+29. Inverted Index
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/29_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/29_Solution.pdf)]
+
