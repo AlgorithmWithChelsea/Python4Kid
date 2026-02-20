@@ -167,6 +167,8 @@
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/25_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/25_Solution.pdf)]
+   [[Quiz 18-25](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_18_25.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_18_25.pdf)]
 
 26. Python Word Frequency
    [YouTube]
