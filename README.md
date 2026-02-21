@@ -200,3 +200,9 @@
    [[Quiz 24-29](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Quiz_24_29.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_24_29.pdf)]
 
+30. Python Strings & Lists
+   [YouTube]
+   [Slides]
+   [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/30_Worksheet.pdf),
+   [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/30_Solution.pdf)]
+
