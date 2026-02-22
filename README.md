@@ -65,7 +65,7 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/10_Solution.pdf)]
 
 11. Python Digit Problems
-   [YouTube]
+   [[YouTube](https://youtu.be/A7cIca9Pw9c)]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/11_Solution.pdf)]
