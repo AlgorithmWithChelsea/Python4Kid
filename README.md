@@ -73,7 +73,7 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_03_11.pdf)]
 
 12. Python Nested For-Loop
-   [YouTube]
+   [[YouTube](https://youtu.be/O8X9GkezOPc)]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Solution.pdf)]
