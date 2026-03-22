@@ -79,7 +79,7 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/12_Solution.pdf)]
 
 13. Two Sum by Nested For-Loop
-   [YouTube]
+   [[YouTube](https://youtu.be/7AAoHoTmzTM)]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/13_Solution.pdf)]
@@ -87,7 +87,7 @@
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Quizzes/Solution_06_13.pdf)]
 
 14. Python While-Loop
-   [YouTube]
+   [[YouTube](https://youtu.be/9ZZUEGh-VPU)]
    [Slides]
    [[Worksheet](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Worksheet.pdf),
    [Solution](https://github.com/AlgorithmWithChelsea/Python4Kid/blob/main/Worksheets/14_Solution.pdf)]
